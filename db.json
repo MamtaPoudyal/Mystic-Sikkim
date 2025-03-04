@@ -1,0 +1,189 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Luxury",
+      "description": "Experience the epitome of luxury and comfort.",
+      "discount": "10% off",
+      "image": "mu.webp",
+      "items": [
+        {
+          "id": 1,
+          "title": "Innova Crysta",
+          "description": "Experience the epitome of luxury and comfort.",
+          "discount": "10% off",
+          "image": "/ni.webp",
+          "rating": 9.5,
+          "reviews": 1023,
+          "price": 12000,
+          "availability": 5,
+          "offers": ["Free Wi-Fi", "Breakfast Included", "Airport Pickup"],
+          "location": "Downtown, City Center"
+        },
+        {
+          "id": 2,
+          "title": "Zylo",
+          "description": "Indulge in unparalleled luxury and service.",
+          "discount": "15% off",
+          "image": "luxury2.webp",
+          "rating": 9.2,
+          "reviews": 853,
+          "price": 15000,
+          "availability": 3,
+          "offers": ["Free Wi-Fi", "Spa Access", "Gourmet Dining"],
+          "location": "Seaside, Beachfront"
+        },
+        {
+          "id": 3,
+          "title": "Scorpio",
+          "description": "Indulge in unparalleled luxury and service.",
+          "discount": "15% off",
+          "image": "luxury2.webp",
+          "rating": 9.2,
+          "reviews": 853,
+          "price": 15000,
+          "availability": 3,
+          "offers": ["Free Wi-Fi", "Spa Access", "Gourmet Dining"],
+          "location": "Seaside, Beachfront"
+        },
+        {
+          "id": 4,
+          "title": "XUV 500",
+          "description": "Indulge in unparalleled luxury and service.",
+          "discount": "15% off",
+          "image": "luxury2.webp",
+          "rating": 9.2,
+          "reviews": 853,
+          "price": 15000,
+          "availability": 3,
+          "offers": ["Free Wi-Fi", "Spa Access", "Gourmet Dining"],
+          "location": "Seaside, Beachfront"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Normal",
+      "description": "Affordable stays for budget-conscious travelers.",
+      "discount": "15% off",
+      "image": "no.jpeg",
+      "items": [
+        {
+          "id": 1,
+          "title": "Normal Hotel 1",
+          "description": "Affordable stays for budget-conscious travelers.",
+          "discount": "15% off",
+          "image": "normal1.jpeg",
+          "rating": 7.8,
+          "reviews": 879,
+          "price": 3000,
+          "availability": 10,
+          "offers": ["Free Wi-Fi", "Complimentary Breakfast"],
+          "location": "Suburbs, Near Bus Station"
+        },
+        {
+          "id": 2,
+          "title": "Normal Hotel 2",
+          "description": "Comfortable and convenient stays.",
+          "discount": "20% off",
+          "image": "normal2.jpeg",
+          "rating": 8.0,
+          "reviews": 654,
+          "price": 3500,
+          "availability": 8,
+          "offers": ["Free Wi-Fi", "Gym Access"],
+          "location": "Suburbs, Near Mall"
+        },
+        {
+          "id": 3,
+          "title": "Normal Hotel 3",
+          "description": "Comfortable and convenient stays.",
+          "discount": "20% off",
+          "image": "normal2.jpeg",
+          "rating": 8.0,
+          "reviews": 654,
+          "price": 3500,
+          "availability": 8,
+          "offers": ["Free Wi-Fi", "Gym Access"],
+          "location": "Suburbs, Near Mall"
+        },
+        {
+          "id": 4,
+          "title": "Normal Hotel 4",
+          "description": "Comfortable and convenient stays.",
+          "discount": "20% off",
+          "image": "normal2.jpeg",
+          "rating": 8.0,
+          "reviews": 654,
+          "price": 3500,
+          "availability": 8,
+          "offers": ["Free Wi-Fi", "Gym Access"],
+          "location": "Suburbs, Near Mall"
+        }
+
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cab",
+      "description": "Unique and stylish hotels with personalized service.",
+      "discount": "12% off",
+      "image": "swift.png",
+      "items": [
+        {
+          "id": 1,
+          "title": "Cab Hotel 1",
+          "description": "Unique and stylish hotels with personalized service.",
+          "discount": "12% off",
+          "image": "swift1.png",
+          "rating": 8.4,
+          "reviews": 652,
+          "price": 7000,
+          "availability": 3,
+          "offers": ["Free Wi-Fi", "Welcome Drink", "Late Checkout"],
+          "location": "Historic District"
+        },
+        {
+          "id": 2,
+          "title": "Cab Hotel 2",
+          "description": "Charming stays with unique amenities.",
+          "discount": "18% off",
+          "image": "swift2.png",
+          "rating": 8.8,
+          "reviews": 479,
+          "price": 7500,
+          "availability": 4,
+          "offers": ["Free Wi-Fi", "Rooftop Access", "Complimentary Dinner"],
+          "location": "City Center"
+        },
+        {
+          "id": 3,
+          "title": "Cab Hotel 3",
+          "description": "Charming stays with unique amenities.",
+          "discount": "18% off",
+          "image": "swift2.png",
+          "rating": 8.8,
+          "reviews": 479,
+          "price": 7500,
+          "availability": 4,
+          "offers": ["Free Wi-Fi", "Rooftop Access", "Complimentary Dinner"],
+          "location": "City Center"
+        },
+        {
+          "id": 4,
+          "title": "Cab Hotel 4",
+          "description": "Charming stays with unique amenities.",
+          "discount": "18% off",
+          "image": "swift2.png",
+          "rating": 8.8,
+          "reviews": 479,
+          "price": 7500,
+          "availability": 4,
+          "offers": ["Free Wi-Fi", "Rooftop Access", "Complimentary Dinner"],
+          "location": "City Center"
+        }
+
+      ]
+    }
+  ]
+}

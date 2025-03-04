@@ -1,0 +1,88 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Greek Salad",
+      "description": "Avocados with crab meat, red onion, crab salad red bell pepper...",
+      "price": "$39.00",
+      "image": "it.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tokusen Wagyu",
+      "description": "Tomatoes, green bell pepper, sliced cucumber onion, olives...",
+      "price": "$45.00",
+      "image": "jpg"
+    },
+    {
+      "id": 3,
+      "name": "Butternut Pumpkin",
+      "description": "Avocados with crab meat, red onion, crab salad stuffed bell pepper...",
+      "price": "$15.00",
+      "image": "butternut_pumpkin.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Opu Fish",
+      "description": "Vegetables, cheeses, ground meats, tomato sauce, seasonings...",
+      "price": "$12.00",
+      "image": "opu_fish.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, croutons, and Parmesan cheese, tossed in Caesar dressing.",
+      "price": "$25.00",
+      "image": "caesar_salad.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Grilled Chicken",
+      "description": "Juicy grilled chicken breast served with a side of mixed vegetables.",
+      "price": "$30.00",
+      "image": "grilled_chicken.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Margherita Pizza",
+      "description": "Classic pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+      "price": "$20.00",
+      "image": "margherita_pizza.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake topped with chocolate ganache.",
+      "price": "$18.00",
+      "image": "chocolate_cake.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sushi Platter",
+      "description": "Assorted sushi rolls including California roll, spicy tuna roll, and shrimp tempura roll.",
+      "price": "$50.00",
+      "image": "sushi_platter.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pasta Carbonara",
+      "description": "Spaghetti with creamy carbonara sauce, pancetta, and Parmesan cheese.",
+      "price": "$28.00",
+      "image": "pasta_carbonara.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sushi Platter",
+      "description": "Assorted sushi rolls including California roll, spicy tuna roll, and shrimp tempura roll.",
+      "price": "$50.00",
+      "image": "sushi_platter.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pasta Carbonara",
+      "description": "Spaghetti with creamy carbonara sauce, pancetta, and Parmesan cheese.",
+      "price": "$28.00",
+      "image": "pasta_carbonara.jpg"
+    }
+  ]
+}

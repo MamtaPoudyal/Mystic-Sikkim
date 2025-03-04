@@ -1,0 +1,89 @@
+/* BookingForm.css */
+
+.booking-form-container {
+  max-width: 700px;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  background: url("C:/Users/Mamta/OneDrive/Documents/REACT PROJECT 2024/onee/src/components/img/back.jpg") no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  margin: 50px auto; /* Ensure it's centered and doesn't overlap other content */
+  position: relative; /* Ensure proper positioning */
+  background-clip: border-box; /* Ensuring background within borders */
+}
+
+.booking-form-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: inherit;
+  filter: blur(10px);
+  z-index: -1;
+  margin: -20px; /* Ensure the blurred background covers the edges */
+}
+
+.booking-form-container:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+
+.book-now-btn {
+  background: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.submit-form-btn {
+  background: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 1.1rem;
+  border-radius: 5px;
+}
+
+.submit-form-btn:hover {
+  background: darkred;
+}
+
+.form-error {
+  color: red;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}

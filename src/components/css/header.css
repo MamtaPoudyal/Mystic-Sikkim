@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.nav-links li{
+    display: inline;
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+.nav-links a:hover{
+    color: #ddd;
+}
